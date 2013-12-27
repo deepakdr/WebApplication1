@@ -1,0 +1,20 @@
+﻿body {
+}
+
+.detailsGridView {
+   
+    /*ItemStyle-BackColor: "#6699FF";
+    ItemStyle-BorderColor: "Black";
+    ItemStyle-BorderStyle: "Solid";
+    ItemStyle-BorderWidth: "1";
+    ItemStyle-ForeColor: "#333333";
+    AlternatingItemStyle-BackColor: "#000099";
+    AlternatingItemStyle-BorderColor: "Black";
+    AlternatingItemStyle-BorderStyle: "Solid";
+    AlternatingItemStyle-BorderWidth: "1";
+    AlternatingItemStyle-ForeColor: "White";*/
+    font-family:Verdana;
+    font-size: 10pt
+    /*HeaderStyle-BackColor: "Black";
+    HeaderStyle-ForeColor: "White";*/
+}

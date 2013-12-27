@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Country xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <rootStateIndividual>
+    <State>
+      Andhra Pradesh
+    </State>
+    <Capital>
+      Hyderabad
+    </Capital>
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Arunachal Pradesh
+    </State>
+    <Capital>
+      Itanagar
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Assam
+    </State>
+    <Capital>
+      Dispur
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Bihar
+    </State>
+    <Capital>
+      Patna
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Gujarat
+    </State>
+    <Capital>
+      Gandhinagar
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Haryana
+    </State>
+    <Capital>
+      Chandigarh
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Himachal Pradesh
+    </State>
+    <Capital>
+      Shimla
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Jammu and Kashmir
+    </State>
+    <Capital>
+      Srinagar
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Jharkhand
+    </State>
+    <Capital>
+      Ranchi
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Karnataka
+    </State>
+    <Capital>
+      Bengaluru
+    </Capital>
+ 
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Kerala
+    </State>
+    <Capital>
+      Thiruvananthapuram
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Madhya Pradesh
+    </State>
+    <Capital>
+      Bhopal
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Maharashtra
+    </State>
+    <Capital>
+      Mumbai
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Manipur
+    </State>
+    <Capital>
+      Imphal
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Meghalaya
+    </State>
+    <Capital>
+      Shillong
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Mizoram
+    </State>
+    <Capital>
+      Aizawl
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Nagaland
+    </State>
+    <Capital>
+      Kohima
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Odisha
+    </State>
+    <Capital>
+      Bhubaneswar
+    </Capital>
+   
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Rajasthan
+    </State>
+    <Capital>
+      Jaipur
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Sikkim
+    </State>
+    <Capital>
+      Gangtok
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Tamil Nadu
+    </State>
+    <Capital>
+      Chennai
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Tripura
+    </State>
+    <Capital>
+      Agartala
+    </Capital>
+  
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Uttar Pradesh
+    </State>
+    <Capital>
+      Lucknow
+    </Capital>
+    <Description>
+      Uttar Pradesh was home to powerful empires of ancient and medieval India,
+      including Magadha, Nanda, Mauryan, Sunga, Kushan, Gupta, Gurjara, Rashtrakuta,
+      Pala and Mughal empires. The two major rivers of the state, the Ganga and Yamuna,
+      join at Allahabad and then flow as the Ganga further east. The state has several
+      historical, natural, and religious tourist destinations, such as the Taj Mahal,
+      Varanasi, Piprahwa, Kaushambi, Kanpur, Ballia, Shravasti, Kushinagar, Lucknow,
+      Chitrakoot, Jhansi, Allahabad, Meerut and Mathura.
+    </Description>
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      Uttarakhand
+    </State>
+    <Capital>
+      Dehradun
+    </Capital>
+    <Description>
+      Two of the most important rivers in Hinduism originate in the region,
+      the Ganga at Gangotri and the Yamuna at Yamunotri. These two along with Badrinath and Kedarnath
+      form the Chota Char Dham, a holy pilgrimage for the Hindus. The state hosts the Bengal
+      tiger in Jim Corbett National Park, the oldest national park of the Indian subcontinent.
+      The Valley of Flowers, a Unesco World Heritage Site located here, is known for the variety
+      and rarity of the flowers and plants found there.
+    </Description>
+  </rootStateIndividual>
+  <rootStateIndividual>
+    <State>
+      West Bengal
+    </State>
+    <Capital>
+      Kolkata
+    </Capital>
+    <Description>
+      A major agricultural producer, West Bengal is the sixth-largest contributor to
+      India's net domestic product.[5] Noted for its political activism, the state was
+      ruled by democratically elected communist government for three decades. West Bengal
+      is noted for its cultural activities and presence of cultural and educational
+      institutions; the state capital Kolkata is known as the "cultural capital of India".
+      The state's cultural heritage, besides varied folk traditions, ranges from stalwarts
+      in literature including Nobel-laureate Rabindranath Tagore to scores of musicians,
+      film-makers and artists. West Bengal is also distinct from most other Indian states
+      in its appreciation and practice of playing soccer besides the national favourite sport cricket.
+    </Description>
+  </rootStateIndividual>
+</Country>
